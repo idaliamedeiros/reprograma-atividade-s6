@@ -1,5 +1,3 @@
-//Apresente no console cada um dos atributos desse JS
-
 const obj = [
   {
     "title": "Castle in the Sky",
@@ -23,4 +21,4 @@ const obj = [
   }
 ]
 
-// FAÇA O EXERCÍCIO ABAIXO
+module.exports = obj

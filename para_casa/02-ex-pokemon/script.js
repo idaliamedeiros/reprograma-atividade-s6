@@ -31,4 +31,4 @@ const data = [
     }
 ]
 
-// FAÇA O EXERCÍCIO ABAIXO
+module.exports = data

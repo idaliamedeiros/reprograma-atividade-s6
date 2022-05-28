@@ -1,3 +1,5 @@
+//  No estados-cidade.js apresente o nome do Estado, a sigla e todas as cidadades, sem arrays aparentes no console
+
 const data = [{
     "estados": [
       {

@@ -1,3 +1,5 @@
+// No filmes.js apresente titulo, plot, generos e lingua. Genero e lingua devem ser apresentados em arrays no console.
+
 const obj = [
     {
         "Title":"10 Things I Hate About You",
